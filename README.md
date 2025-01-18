@@ -3,15 +3,15 @@
 🎯 **Desenvolvedor Java Backend e Fullstack em formação**
 
 💻 **Sobre mim:**
-- 🔥 Me apaixonei e busco resolver problemas reais de empresas com tecnologia.
-- 🌍 Estudando e construindo projetos com foco em praticidade e escalabilidade.
+- 🔥 Me apaixonei estudando como resolver problemas reais com tecnologia.
+- 🌍 Construindo projetos intuitivos, com foco em praticidade e escalabilidade.
 - 🏆 Objetivo: me aprimorar cada vez mais como desenvolvedor.
 
 🚀 **Tecnologias e Ferramentas que utilizo:**
-- **Backend:** Java, Spring Boot, Hibernate, Maven.
+- **Backend:** Java, Spring Boot, Hibernate, Maven, Postman.
 - **Frontend:** React, CSS, Axios.
-- **Banco de Dados:** MySQL, SQL avançado.
-- **Outras habilidades:** Design Patterns, APIs RESTful, Git, Postman.
+- **Banco de Dados:** SQL avançado, MySQL WorkBench.
+- **Outras habilidades:** Design Patterns, APIs RESTful, Git.
 
 📂 **Meus projetos:**
 - [FuncionarioProject](https://github.com/NemoBJJ/FuncionarioProject)
