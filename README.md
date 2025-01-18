@@ -16,7 +16,8 @@
 📂 **Meus projetos:**
 - [FuncionarioProject](https://github.com/NemoBJJ/FuncionarioProject)
 - [Estoque API](https://github.com/NemoBJJ/Estoque-API)
-- [Financeiro API](https://github.com/NemoBJJ/Financeiro-API)
+- [Financeiro API](https://github.com/NemoBJJ/financeiro-backend)
+
 
 📫 **Contato:**
 - **LinkedIn:** [Nemuel Araújo](https://www.linkedin.com/in/nemuel-araujo/?locale=en_US)
