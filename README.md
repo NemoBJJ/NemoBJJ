@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Nemuel Araújo 🚀
 
-🎯 **Desenvolvedor Java Backend e Fullstack em formação**
+🎯 ****Desenvolvedor Java Backend/Fullstack (APIs RESTful)**
 
 💻 **Sobre mim:**
 - 🔥 Me apaixonei estudando como resolver problemas reais com tecnologia.
