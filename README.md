@@ -3,7 +3,7 @@
 🎯 **Desenvolvedor Java Backend/Fullstack**  
 
 💻 **Sobre mim:**  
-- 🔥 **APIs são tudo e tudo pode virar API.**  
+- 🔥 **APIs viram tudo e tudo vira API.**  
 - 🌍 Construindo projetos intuitivos, **integrando tecnologias**, com foco em **eficiência e escalabilidade**.  
 - 🏆 **Objetivo:** me aprimorar cada vez mais como desenvolvedor.  
 
