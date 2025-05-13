@@ -1,33 +1,36 @@
-# 👋 Olá! Eu sou Nemuel Araújo 🚀
+Hello! I am Nemuel Araújo
+Java Backend/Fullstack Developer
 
-🎯 **Desenvolvedor Java Backend/Fullstack**  
+About me:
 
-💻 **Sobre mim:**  
-- 🔥 **APIs viram tudo e tudo vira API.**  
-- 🌍 Construindo projetos intuitivos, **integrando tecnologias**, com foco em **eficiência e escalabilidade**.  
-- 🏆 **Objetivo:** me aprimorar cada vez mais como desenvolvedor.  
+APIs turn everything into APIs, and anything can become an API.
+Building intuitive projects, integrating technologies with a focus on efficiency and scalability.
+Goal: to continuously improve as a developer.
 
-🚀 **Tecnologias e Ferramentas que utilizo:**  
-- **Backend:** Java, Spring Boot, Hibernate, Maven.  
-- **Frontend:** React, Axios, CSS.  
-- **Banco de Dados:** SQL avançado, MySQL WorkBench.  
-- **Cloud & Infraestrutura:** AWS (EC2, LoadBalancer, Certificados SSL).  
-- **Netlify:** CI/CD, CDN, DNS Manager.  
-- **Outras habilidades:** Design Patterns e Princípios SOLID, APIs RESTful, Git.  
+Technologies and Tools I use:
 
-📂 **Meus projetos:**  
-- [**Employee Management BackEnd**](https://github.com/NemoBJJ/EmployeeManagementAPI)  
-- [**Employee Management FrontEnd**](https://github.com/NemoBJJ/FrontEndEmployee)  
-- [**Financial API BackEnd**](https://github.com/NemoBJJ/financialApiBack)  
-- [**Financial API FrontEnd**](https://github.com/NemoBJJ/nemiapiingfinancial)  
-- [**Recursos Humanos BackEnd**](https://github.com/NemoBJJ/FuncionarioProject)  
-- [**Recursos Humanos FrontEnd**](https://github.com/NemoBJJ/FuncionarioProject-FrontEnd)  
-- [**Estoque API BackEnd**](https://github.com/NemoBJJ/Estoque-API)  
-- [**Estoque API FrontEnd**](https://github.com/NemoBJJ/estqfinalfront)  
-- [**Swagger Estoque API**](https://apistq.neemindev.com/swagger-ui/index.html)  
-- [**Financeiro API BackEnd**](https://github.com/NemoBJJ/financeiro-backend)  
-- [**Financeiro API FrontEnd**](https://github.com/NemoBJJ/financeiro-frontend)  
+Backend: Java, Spring Boot, Hibernate, Maven.
+Frontend: React, Axios, CSS.
+Database: Advanced SQL, MySQL WorkBench.
+Cloud & Infrastructure: AWS (EC2, LoadBalancer, SSL Certificates).
+Netlify: CI/CD, CDN, DNS Manager.
+Other skills: Design Patterns and SOLID Principles, RESTful APIs, Git.
 
-📫 **Contato:**  
-- **LinkedIn:** [Nemuel Araújo](https://www.linkedin.com/in/nemuel-araujo/?locale=en_US)  
-- **E-mail:** engnfaraujo@gmail.com  
+My Projects:
+
+- Employee Management BackEnd
+- Employee Management FrontEnd
+- Financial API BackEnd
+- Financial API FrontEnd
+- Recursos Humanos BackEnd
+- Recursos Humanos FrontEnd
+- Estoque API BackEnd
+- Estoque API FrontEnd
+- Swagger Estoque API
+- Financeiro API BackEnd
+- Financeiro API FrontEnd
+
+Contact:
+
+LinkedIn: Nemuel Araújo
+Email: engnfaraujo@gmail.com
